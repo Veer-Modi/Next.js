@@ -29,9 +29,9 @@ export default function Home() {
         <div></div>
         <Link href="/mui/Typography">typography</Link>
         <div></div>
-        <Link href="/mui/Appbar">appbar</Link>
+        <Link href="/mui/Navigation/Appbar">appbar</Link>
         <div></div>
-        <Link href="/mui/Tabs">tabs</Link>
+        <Link href="/mui/Navigation/Tabs">tabs</Link>
         <div></div>
         <Link href="/profile/Jenil">Profile Page</Link>
         <div></div>
